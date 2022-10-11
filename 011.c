@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main(void){
-    int i;
-    int j;
-    int k;
-    scanf("%d %d %d",&i,&j,&k);
-    printf("%d",i+j+k);
+    double i;
+    double j;
+    double k;
+    scanf("%lf %lf %lf",&i,&j,&k);
+    printf("%.f",i+j+k);
     return 0;
 }
