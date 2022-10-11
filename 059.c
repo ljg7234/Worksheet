@@ -13,7 +13,7 @@ int main(){
     }
     for (int i = 0; i < 9; i++){
         if (sum == arr[i]){
-            q = i;
+            q = i+1;
         }
     }
     printf("%d\n",sum);
