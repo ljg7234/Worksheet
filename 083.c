@@ -4,9 +4,9 @@ int main(int argc,char *argv[]){
     int a[3];
     int sum = 0;
     for (int i = 0; i < 3; i++){
-        a[i] = atoi(argv[i]);
+        a[i] = atoi(argv[i+1]);
         sum +=a[i];
     }
-    printf("%d",sum / argc);
+    printf("%d",sum / (argc-1));
 
 }
