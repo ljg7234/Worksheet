@@ -14,7 +14,6 @@ int credit; // 취득 학점
 void input_data(struct info *pf,int y)
 {
  int i;
-
  for(i = 0; i < y; i++) {
   scanf("%s %lf %d", (pf+i) -> name, &(pf+i) -> score, &(pf+i) ->credit);
  } printf("\n");

@@ -41,6 +41,7 @@ int main(){
             if (sad[i] != 0){
                 printf(" %d",sad[i]);
             } 
+            
             else (printf(" x")); 
         }
         x(n);

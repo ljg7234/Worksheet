@@ -3,7 +3,7 @@ int main(){
     int n,m,sum = 0;
     scanf("%d\n",&n);
     scanf("%d",&m);
-    for (int i = 0; i < n; i++){
+    for (int i = 0; i < m; i++){
         int c,d;
         scanf("%d %d",&c,&d);
         sum += c * d;

@@ -1,12 +1,12 @@
 #include <stdio.h>
 #define WON 0
 #define DOLLAR 1
-struct info{
+
 union wondollar{
     int won;
     float dollar;
 };
-
+struct info{
 char *name; // 이름
 _Bool w_d; // 평점 평균
 union wondollar price;

@@ -20,8 +20,6 @@ int main(void){
 
     printf("%u\n", (*p)+1);
 
- 
-
     return 0;
 
 }
