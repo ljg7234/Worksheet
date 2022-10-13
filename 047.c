@@ -2,7 +2,7 @@
 int main(){
     int i,j,k;
     scanf("%d %d %d",&i,&j,&k);
-    if (i == j == k){
+    if (i == j && i== k){
         printf("%d",10000+i * 1000);
     }
     else if (i ==j ){
