@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h> //strlen 함수를 위한 것 
+#include <string.h>
 
 int main() {
 
