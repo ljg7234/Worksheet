@@ -2,6 +2,6 @@
 int main(){
     int i;
     scanf("%d",&i);
-    printf("%d",i+543);
+    printf("%d",i-543);
 
 }

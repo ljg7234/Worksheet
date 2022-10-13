@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&T);
     for (int i = 0; i < T; i++){
         scanf("%s",a);
-        printf("%c %c",a[0],a[strlen(a)-1]);
+        printf("%c%c\n",a[0],a[strlen(a)-1]);
         
     }
 

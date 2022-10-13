@@ -4,7 +4,7 @@ int main(void)
     int i;
     int j;
     scanf("%d %d",&i,&j);
-    printf("%lf\n",(double)i/(double)j);
+    printf("%.9f\n",(double)i/j);
     return 0;
 
 }

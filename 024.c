@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main(){
-    while (1){
-        int i,j;
-        scanf("%d %d",&i,&j);
+    int i,j;
+    while (scanf("%d %d",&i,&j) != EOF){
         printf("%d\n",i+j);
     }
 }
