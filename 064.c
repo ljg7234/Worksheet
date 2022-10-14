@@ -20,6 +20,8 @@ void input_data(struct info *pf,int y)
 }
 
 
+
+
 void scholarship(struct info *st,int y){
     for (int i = 0; i < y; i++){
         if ((st+i) ->credit >= 20 && (st+i) ->score >=4.3){
