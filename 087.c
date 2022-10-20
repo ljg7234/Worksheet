@@ -11,18 +11,15 @@ int main(){
         strcpy(words[i],qq);
     }
 
-    for (int k=0; k < 10; k++){
-        free(words[k]);
-    }
-
-
-    int size = sizeof(words) / sizeof(char);
-
     qsort(words,10,sizeof(char*),compare);
     for (int j = 0; j < 10; j++){
         printf("%s\n",words[j]);
     }
 
+     for (int k=0; k < 10; k++){
+        free(words[k]);
+        words[k]=NULL;
+    }
 }
 
 int compare (const void *p,const void *q){
