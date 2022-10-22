@@ -109,3 +109,4 @@
 108 define 함수 사용 
 109 argv argc 문자열 뺄셈
 110 구조체 함수 출력 
+111 union struct 같이 사용
