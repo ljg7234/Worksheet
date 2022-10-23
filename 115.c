@@ -4,7 +4,6 @@ int main()
 	int a[5] = {2,4,6,8,10};
 	int *p = a;
 	int i;
-	printf("%p\n",a);
     *p++;
 	*(p+1) += 3;
 	a[3] = *p + 1;
@@ -13,6 +12,5 @@ int main()
 	{
     	printf("%d ",a[i]);
 	}
-    printf("%p ",a);
 	return 0;
 }
