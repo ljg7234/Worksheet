@@ -7,11 +7,11 @@ typedef struct name_sort {
 }name_sort;
 
 int compare (const void *p,const void *q){
-    return strcmp(((name_sort *)p) -> name,((name_sort *)q) -> name);
+    return strcmp(((name_sort *)p)->name,((name_sort *)q)->name);
 }
 int main(){
     name_sort stu[6] = {"kim","lee","park","choi","jung","cho"};
-    qsort(stu,6,sizeof(name_sort),compare);
+    qsort(stu,6,sizeof(char),compare);
     for (int i= 0; i < 6; i++){
         printf("%s\n",stu[i].name);
     }

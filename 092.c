@@ -15,7 +15,7 @@ int main(){
     struct grade students[5];
     ham1(students,5);
     ham2(students,5);
-    printf("%s %d %s %lf",students[1].name,students[3].id,&students[2].grade1,students[0].grade2);
+    printf("%s %d %s %lf",&students[1].name,students[3].id,&students[2].grade1,students[0].grade2);
 }
 
 

@@ -15,7 +15,7 @@ int input_data(struct info *x,int a){
 int scholarship(struct info *x,int a){
     for (int i = 0; i < a; i++){
         if (x[i].credit >= 20 && x[i].score >= 4.3){
-            printf("%s %d %.2lf",&x[i].name,x[i].credit,x[i].score);
+            printf("%s %d %lf",&x[i].name,x[i].credit,x[i].score);
         }
     }
 }

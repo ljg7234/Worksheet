@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void f(int a[3]);
+void f(double a[3]);
 int main(void)
 
 {
@@ -14,7 +14,7 @@ int main(void)
 
 }
 
-void f(int a[3])
+void f(double a[3])
 
 {
 

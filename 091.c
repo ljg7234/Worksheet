@@ -6,7 +6,7 @@ struct info{
 
 };
 
-void input_data(struct info* a,int x)
+void input_data(struct info a[],int x)
 {
     for (int i = 0; i < x; i ++){
         scanf("%s %d %lf",a[i].name,&a[i].credit,&a[i].score);
