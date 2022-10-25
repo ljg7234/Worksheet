@@ -6,7 +6,7 @@ struct student{
 
 void fn(struct student *x){
     printf("이름을 입력하세요 :");
-    scanf("%s", x->name);
+    scanf("%s", (*x).name);
     printf("학점을 입력하세요 :");
     scanf("%lf",&x->grade);
     printf("%s %f",&x->name, x->grade);
