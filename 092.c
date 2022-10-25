@@ -21,7 +21,7 @@ int main(){
 
 int ham1(struct grade *x,int a){
     for (int i = 0; i < a; i++){
-        scanf("%s %d %s",(x + i) ->name, &x[i].id,(x +i) ->grade1);
+        scanf("%s %d %s",x[i].name, &x[i].id,(x +i) ->grade1);
     }
     return 0;
 }
