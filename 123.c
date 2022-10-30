@@ -1,5 +1,5 @@
 #include <stdio.h>
-int hansoo(int num);
+void hansoo(int num);
 int main(){
     int num;
     scanf("%d",&num);
@@ -7,7 +7,7 @@ int main(){
 
 }
 
-int hansoo(int num){
+void hansoo(int num){
     if (num < 100){
         printf("%d",num);
 
@@ -15,10 +15,10 @@ int hansoo(int num){
     else {
         int a,b,c,sum = 0;
         for (int i = 100; i <= num; i++){
-            a = num / 100;
-            b = num / 10 % 10;
-            c = num % 10;
-            if (c - b == b - a){
+            a = i / 100;
+            b = i / 10 % 10;
+            c = i % 10;
+            if ((c - b) == (b - a)){
                 sum++;
             }
             
@@ -26,5 +26,4 @@ int hansoo(int num){
         printf("%d",sum+99);
         
     }
-    return 0;
 }
