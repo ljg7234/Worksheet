@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int main(){
     char *a;
-    char c[100];
+    char c[1000000];
     int b[26] = {0,};
     int d = 0,e =0,f=0;
     scanf("%s",c);
