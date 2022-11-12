@@ -81,7 +81,9 @@ int main(int argc,char **argv){
 
         }
     }
-
+    fprintf(stderr,"프로그램을 종료합니다 ");
+    fclose(fp);
+    return 0;
 }
 
 int selectNum(void){
