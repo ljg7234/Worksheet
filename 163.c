@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int x,a,sum=0;
+    int x,sum=0,a;
     scanf("%d",&x);
     while(1){
         if(x % 5 == 0){
