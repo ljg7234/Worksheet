@@ -58,7 +58,7 @@
 [057](https://github.com/fastew/Worksheet/blob/master/.vscode/057.c) 함수 포인터 <br>
 [058](https://github.com/fastew/Worksheet/blob/master/.vscode/058.c) 백준 10818번 최소, 최대<br>
 [059](https://github.com/fastew/Worksheet/blob/master/.vscode/059.c) 백준 2562번 최댓값<br>
-[060](https://github.com/fastew/Worksheet/blob/master/.vscode/060.c)프로그래밍 실습 과제<br>
+[060](https://github.com/fastew/Worksheet/blob/master/.vscode/060.c) 프로그래밍 실습 과제<br>
 [061](https://github.com/fastew/Worksheet/blob/master/.vscode/061.c) 백준 1546번 평균<br>
 [062](https://github.com/fastew/Worksheet/blob/master/.vscode/062.c) 백준 3052번 나머지<br>
 [063](https://github.com/fastew/Worksheet/blob/master/.vscode/063.c) 백준 8958번 OX 퀴즈 <br>
@@ -76,8 +76,8 @@
 [075](https://github.com/fastew/Worksheet/blob/master/.vscode/075.c) 2주차 실습 1번 <br>
 [076](https://github.com/fastew/Worksheet/blob/master/.vscode/076.c) 2주차 실습 2번 <br>
 [077](https://github.com/fastew/Worksheet/blob/master/.vscode/077.c) 2주차 실습 3번 <br>
-[078](https://github.com/fastew/Worksheet/blob/master/.vscode/078.c)2주차 실습 4번 <br>
-[079](https://github.com/fastew/Worksheet/blob/master/.vscode/079.c)2주차 실습 5번<br>
+[078](https://github.com/fastew/Worksheet/blob/master/.vscode/078.c) 2주차 실습 4번 <br>
+[079](https://github.com/fastew/Worksheet/blob/master/.vscode/079.c) 2주차 실습 5번<br>
 [080](https://github.com/fastew/Worksheet/blob/master/.vscode/080.c) 2주차 실습 6번<br>
 [081](https://github.com/fastew/Worksheet/blob/master/.vscode/081.c) 2주차 실습 7번 <br>
 [082](https://github.com/fastew/Worksheet/blob/master/.vscode/082.c) 3주차 실습 1번 <br>
