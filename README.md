@@ -1,11 +1,11 @@
 # 학습 내용 정리
-[001](https://github.com/fastew/Worksheet/blob/master/001.c) 낙제 과목 수 출력<br>
-[002](https://github.com/fastew/Worksheet/blob/master/002.c) 100보다 큰 피보나치 수열 중 가장 작은 수<br>
-[003](https://github.com/fastew/Worksheet/blob/master/003.c) for 반복문을 이용하여 1 부터 10 까지의 합 <br>
-[004](https://github.com/fastew/Worksheet/blob/master/004.c) Do WHile 문 사용 "hello world" 반복<br>
-[005](https://github.com/fastew/Worksheet/blob/master/005.c) continue 사용하여 입력받은 수 까지 짝수의 합 <br>
-[006](https://github.com/fastew/Worksheet/blob/master/006.c) Swich문 사용하여 수학 점수별 등급 출력<br>
-[007](https://github.com/fastew/Worksheet/blob/master/007.c) 숫자 2진수로 출력<br>
+[001](https://github.com/fastew/Worksheet/blob/master/.vscode/001.c) 낙제 과목 수 출력<br>
+[002](https://github.com/fastew/Worksheet/blob/master/.vscode/002.c) 100보다 큰 피보나치 수열 중 가장 작은 수<br>
+[003](https://github.com/fastew/Worksheet/blob/master/.vscode/003.c) for 반복문을 이용하여 1 부터 10 까지의 합 <br>
+[004](https://github.com/fastew/Worksheet/blob/master/.vscode/004.c) Do WHile 문 사용 "hello world" 반복<br>
+[005](https://github.com/fastew/Worksheet/blob/master/.vscode/005.c) continue 사용하여 입력받은 수 까지 짝수의 합 <br>
+[006](https://github.com/fastew/Worksheet/blob/master/.vscode/006.c) Swich문 사용하여 수학 점수별 등급 출력<br>
+[007](https://github.com/fastew/Worksheet/blob/master/.vscode/007.c) 숫자 2진수로 출력<br>
 [008](https://github.com/fastew/Worksheet/blob/master/008.c) 함수 원형 사용<br>
 [009](https://github.com/fastew/Worksheet/blob/master/009.c) 백준 10869번 사칙연산 <br>
 [010](https://github.com/fastew/Worksheet/blob/master/010.c) 백준 1008번 /연산자<br>
@@ -53,12 +53,12 @@
 [052](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 25304번 영수증 <br>
 [053](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 11021번 A+B-7<br>
 [054](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 11022번 A+B-8<br>
-[055] (https://github.com/fastew/Worksheet/blob/master/043.c)백준 2439번 별 찍기 -2<br>
+[055](https://github.com/fastew/Worksheet/blob/master/043.c)백준 2439번 별 찍기 -2<br>
 [056](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 1110번 더하기 사이클<br>
 [057](https://github.com/fastew/Worksheet/blob/master/043.c) 함수 포인터 <br>
 [058](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 10818번 최소, 최대<br>
 [059](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2562번 최댓값<br>
-[060] (https://github.com/fastew/Worksheet/blob/master/043.c)프로그래밍 실습 과제<br>
+[060](https://github.com/fastew/Worksheet/blob/master/043.c)프로그래밍 실습 과제<br>
 [061](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 1546번 평균<br>
 [062](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 3052번 나머지<br>
 [063](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 8958번 OX 퀴즈 <br>
