@@ -166,3 +166,4 @@
 [165](https://github.com/fastew/Worksheet/blob/master/.vscode/165.c) 백준 1193번 분수찾기<br>
 [166](https://github.com/fastew/Worksheet/blob/master/.vscode/166.c) 백준 11653번 소인수분해<br>
 [167](https://github.com/fastew/Worksheet/blob/master/.vscode/167.c) 백준 1978번 소수 찾기<br> 
+[168](https://github.com/fastew/Worksheet/blob/master/.vscode/168.c) 백준 2581번 소수<br> 
