@@ -42,72 +42,72 @@
 [041](https://github.com/fastew/Worksheet/blob/master/041.c) 백준 15964번 이상한 기호 <br>
 [042](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2475번 검증수<br>
 [043](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 10926번 ??!<br>
-[044] 백준 18108번 1998년생인 내가 태국에서는 2541년생?!<br>
-[045] 백준 3003번 킹, 퀸, 룩, 비숍, 나이트, 폰<br>
-[046] 백준 10430번 나머지 <br>
-[047] 백준 2480번 주사위 세 개 <br>
-[048] 백준 2588번 곱셈<br>
-[049] 백준 2884번 알람 시계<br>
-[050] 백준 2525번 오븐 시계<br>
-[051] 백준 8393번 합<br>
-[052] 백준 25304번 영수증 <br>
-[053] 백준 11021번 A+B-7<br>
-[054] 백준 11022번 A+B-8<br>
-[055] 백준 2439번 별 찍기 -2<br>
-[056] 백준 1110번 더하기 사이클<br>
-[057] 함수 포인터 <br>
-[058] 백준 10818번 최소, 최대<br>
-[059] 백준 2562번 최댓값<br>
-[060] 프로그래밍 실습 과제<br>
-[061] 백준 1546번 평균<br>
-[062] 백준 3052번 나머지<br>
-[063] 백준 8958번 OX 퀴즈 <br>
-[064] 구조체 이용하여 장학 학생 선발<br>
-[065] 구조체 공용체 사용<br>
-[066] 백준 4344번 평균은 넘겠지<br>
-[067] 학점 입력받아서 출력<br>
-[068] 백준 15596번 정수N개의 합<br>
-[069] 1주차 실습 1번 <br>
-[070] 1주차 실습 2번 <br>
-[071] 1주차 실습 3번<br>
-[072] 1주차 실습 4번<br>
-[073] 1주차 실습 5번<br>
-[074] 1주차 실습 7번<br>
-[075] 2주차 실습 1번 <br>
-[076] 2주차 실습 2번 <br>
-[077] 2주차 실습 3번 <br>
-[078] 2주차 실습 4번 <br>
-[079] 2주차 실습 5번<br>
-[080] 2주차 실습 6번<br>
-[081] 2주차 실습 7번 <br>
-[082] 3주차 실습 1번 <br>
-[083] 3주차 실습 2번 <br>
-[084] 6주차 실습 2번 <br>
-[085] 6주차 실습 3번 <br>
-[086] qsort 숫자 정렬 <br>
-[087] 3주차 실습 4번<br>
-[088] 포인터 배열 사용하여 문자열 입력 <br>
-[089] 4주차 실습 1번 <br>
-[090] 4주차 실습 2번 <br>
-[091] 5주차 실습 1번<br>
-[092] 5주차 실습 2번<br>
-[093] 5주차 실습 3번 <br>
-[094] 6주차 실습 1번 <br>
-[095] 6주차 실습 3번 <br>
-[096] 1번 포인터 배열 사용 출력 <br>
-[097] 2번 포인터 배열 크기 구하기<br>
-[098] 3번 strcmp 사용<br>
-[099] 4번 공용체와 구조체 사용 초기화 하기<br>
-[100] 5번 동적 메모리 할당 해제하기 <br>
-[101] 6번 argv argc 사용<br>
-[102] 7번 주소 찾기<br>
-[103] 8번 구조체 포인터 사용 <br>
-[104] 9번 마스킹 <br>
-[105] 10번 비트연산자 <br>
-[106] 11번 qsort strcmp <br>
-[107] 구조체 배열 출력 <br>
-[108] define 함수 사용 <br>
-[109] argv argc 문자열 뺄셈<br>
+[044](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 18108번 1998년생인 내가 태국에서는 2541년생?!<br>
+[045](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 3003번 킹, 퀸, 룩, 비숍, 나이트, 폰<br>
+[046](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 10430번 나머지 <br>
+[047](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2480번 주사위 세 개 <br>
+[048](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2588번 곱셈<br>
+[049](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2884번 알람 시계<br>
+[050](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2525번 오븐 시계<br>
+[051](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 8393번 합<br>
+[052](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 25304번 영수증 <br>
+[053](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 11021번 A+B-7<br>
+[054](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 11022번 A+B-8<br>
+[055] (https://github.com/fastew/Worksheet/blob/master/043.c)백준 2439번 별 찍기 -2<br>
+[056](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 1110번 더하기 사이클<br>
+[057](https://github.com/fastew/Worksheet/blob/master/043.c) 함수 포인터 <br>
+[058](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 10818번 최소, 최대<br>
+[059](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 2562번 최댓값<br>
+[060] (https://github.com/fastew/Worksheet/blob/master/043.c)프로그래밍 실습 과제<br>
+[061](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 1546번 평균<br>
+[062](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 3052번 나머지<br>
+[063](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 8958번 OX 퀴즈 <br>
+[064](https://github.com/fastew/Worksheet/blob/master/043.c) 구조체 이용하여 장학 학생 선발<br>
+[065](https://github.com/fastew/Worksheet/blob/master/043.c) 구조체 공용체 사용<br>
+[066](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 4344번 평균은 넘겠지<br>
+[067](https://github.com/fastew/Worksheet/blob/master/043.c) 학점 입력받아서 출력<br>
+[068](https://github.com/fastew/Worksheet/blob/master/043.c) 백준 15596번 정수N개의 합<br>
+[069](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 1번 <br>
+[070](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 2번 <br>
+[071](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 3번<br>
+[072](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 4번<br>
+[073](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 5번<br>
+[074](https://github.com/fastew/Worksheet/blob/master/043.c) 1주차 실습 7번<br>
+[075](https://github.com/fastew/Worksheet/blob/master/043.c) 2주차 실습 1번 <br>
+[076](https://github.com/fastew/Worksheet/blob/master/043.c) 2주차 실습 2번 <br>
+[077](https://github.com/fastew/Worksheet/blob/master/043.c) 2주차 실습 3번 <br>
+[078](https://github.com/fastew/Worksheet/blob/master/078c)2주차 실습 4번 <br>
+[079](https://github.com/fastew/Worksheet/blob/master/079.c)2주차 실습 5번<br>
+[080](https://github.com/fastew/Worksheet/blob/master/080.c) 2주차 실습 6번<br>
+[081](https://github.com/fastew/Worksheet/blob/master/081.c) 2주차 실습 7번 <br>
+[082](https://github.com/fastew/Worksheet/blob/master/082.c) 3주차 실습 1번 <br>
+[083](https://github.com/fastew/Worksheet/blob/master/083.c) 3주차 실습 2번 <br>
+[084](https://github.com/fastew/Worksheet/blob/master/084.c) 6주차 실습 2번 <br>
+[085](https://github.com/fastew/Worksheet/blob/master/085.c) 6주차 실습 3번 <br>
+[086](https://github.com/fastew/Worksheet/blob/master/086.c) qsort 숫자 정렬 <br>
+[087](https://github.com/fastew/Worksheet/blob/master/087.c) 3주차 실습 4번<br>
+[088](https://github.com/fastew/Worksheet/blob/master/088.c) 포인터 배열 사용하여 문자열 입력 <br>
+[089](https://github.com/fastew/Worksheet/blob/master/089.c) 4주차 실습 1번 <br>
+[090](https://github.com/fastew/Worksheet/blob/master/090.c) 4주차 실습 2번 <br>
+[091](https://github.com/fastew/Worksheet/blob/master/091.c) 5주차 실습 1번<br>
+[092](https://github.com/fastew/Worksheet/blob/master/092.c) 5주차 실습 2번<br>
+[093](https://github.com/fastew/Worksheet/blob/master/093.c) 5주차 실습 3번 <br>
+[094](https://github.com/fastew/Worksheet/blob/master/094.c) 6주차 실습 1번 <br>
+[095](https://github.com/fastew/Worksheet/blob/master/095.c) 6주차 실습 3번 <br>
+[096](https://github.com/fastew/Worksheet/blob/master/096.c) 1번 포인터 배열 사용 출력 <br>
+[097](https://github.com/fastew/Worksheet/blob/master/097.c) 2번 포인터 배열 크기 구하기<br>
+[098](https://github.com/fastew/Worksheet/blob/master/098.c) 3번 strcmp 사용<br>
+[099](https://github.com/fastew/Worksheet/blob/master/099.c) 4번 공용체와 구조체 사용 초기화 하기<br>
+[100](https://github.com/fastew/Worksheet/blob/master/100.c) 5번 동적 메모리 할당 해제하기 <br>
+[101](https://github.com/fastew/Worksheet/blob/master/101.c) 6번 argv argc 사용<br>
+[102](https://github.com/fastew/Worksheet/blob/master/102.c) 7번 주소 찾기<br>
+[103](https://github.com/fastew/Worksheet/blob/master/103.c) 8번 구조체 포인터 사용 <br>
+[104](https://github.com/fastew/Worksheet/blob/master/104.c) 9번 마스킹 <br>
+[105](https://github.com/fastew/Worksheet/blob/master/105.c) 10번 비트연산자 <br>
+[106](https://github.com/fastew/Worksheet/blob/master/106.c) 11번 qsort strcmp <br>
+[107](https://github.com/fastew/Worksheet/blob/master/107.c) 구조체 배열 출력 <br>
+[108](https://github.com/fastew/Worksheet/blob/master/108.c) define 함수 사용 <br>
+[109](https://github.com/fastew/Worksheet/blob/master/109.c) argv argc 문자열 뺄셈<br>
 [110] 구조체 함수 출력 <br>
 [111] union struct 같이 사용<br>
 [112] 패킹 언패킹<br>
