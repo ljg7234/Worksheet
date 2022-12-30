@@ -168,3 +168,4 @@
 [167](https://github.com/fastew/Worksheet/blob/master/.vscode/167.c) 백준 1978번 소수 찾기<br> 
 [168](https://github.com/fastew/Worksheet/blob/master/.vscode/168.c) 백준 2581번 소수<br> 
 [169](https://github.com/fastew/Worksheet/blob/master/.vscode/169.c) 백준 2292번 벌집<br> 
+[170](https://github.com/fastew/Worksheet/blob/master/.vscode/170.c) 백준 10250번 ACM호텔<br> 
