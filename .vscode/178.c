@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-    int x,dp[100001]={0,};
+    int x;
+    int dp[1000001]={0,};
     scanf("%d",&x);
     dp[1] = 0;
     for(int a = 2; a <= x; a++){
@@ -17,6 +18,6 @@ int main(){
         }
     }
     printf("%d",dp[x]);
-    
+    return 0;
     
 }
