@@ -175,3 +175,5 @@
 [174](https://github.com/ljg7234/Worksheet/blob/master/.vscode/174.c) 백준 1269번 대칭 차집합<br>
 [175](https://github.com/ljg7234/Worksheet/blob/master/.vscode/175.c) 백준 1427번 솔트 인사이드<br>
 [176](https://github.com/ljg7234/Worksheet/blob/master/.vscode/176.c) 백준 1676번 팩토리얼 0의 개수<br>
+[177](https://github.com/ljg7234/Worksheet/blob/master/.vscode/177.c) 백준 3049번 다각형의 대각선<br>
+
