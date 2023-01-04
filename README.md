@@ -182,6 +182,7 @@
 [181](https://github.com/ljg7234/Worksheet/blob/master/.vscode/181.c) 백준 9656번 돌 게임 2<br>
 [182](https://github.com/ljg7234/Worksheet/blob/master/.vscode/182.c) 백준 16394번 홍익대학교<br>
 [183](https://github.com/ljg7234/Worksheet/blob/master/.vscode/183.c) 백준 1292번 쉽게 푸는 문제<br>
+[184](https://github.com/ljg7234/Worksheet/blob/master/.vscode/184.c) 백준 2609번 최대공약수와 최소공배수<br>
 
 
 
