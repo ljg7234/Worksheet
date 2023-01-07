@@ -1,29 +1,24 @@
 #include <stdio.h>
-int sosu(int num){
-    int i;
-    for(i = 2; i < num; i++){
-        if(num % i == 0) break;
-    }
-    if(num == i) {
-        return 1;
-    }
-    else {
-        return 0;
-    }
-}
 
 int main() {
     int m, n;
     scanf("%d %d", &m, &n);
     
-    for(int i = m; i <= n; i++){
-        if(i == 1){
-            continue;
+    int arr[1000001];
+    
+    for(int i = 2; i < 1000001; i++){
+        arr[i] = 1;
+    }
+    
+    for(int i = 2; i <= n; i++){
+        for(int j = i * 2; j <= n; j+=i){
+            arr[j] = 0;
         }
-        else{
-            if(sosu(i)){
-                printf("%d\n", i);
-            }
+    }
+    
+    for(int i = m; i <= n; i++){
+        if(arr[i] == 1){
+            printf("%d\n", i);
         }
     }
     
