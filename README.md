@@ -187,6 +187,7 @@
 [186](https://github.com/ljg7234/Worksheet/blob/master/.vscode/186.c) 백준 1929번 소수 구하기<br>
 [187](https://github.com/ljg7234/Worksheet/blob/master/.vscode/187.c) 백준 4948번 베르트랑 공존<br>
 [188](https://github.com/ljg7234/Worksheet/blob/master/.vscode/188.c) 백준 1449번 수리공 항승<br>
+[189](https://github.com/ljg7234/Worksheet/blob/master/.vscode/188.c) 백준 1735번 분수 합<br>
 
 
 
